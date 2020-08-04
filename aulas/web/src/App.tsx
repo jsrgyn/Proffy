@@ -4,9 +4,10 @@ import React from "react";
 
 //JSX - JavaScript + XML
 
-import Landing from "./pages/Landing";
+// import Landing from "./pages/Landing";
 
 import "./assets/styles/global.css";
+import Routes from "./routes";
 
 function App() {
   // return (
@@ -31,7 +32,8 @@ function App() {
 
   // <button>Clica em mim</button>
   // </div>
-  return <Landing />;
+  // return <Landing />;
+  return <Routes />;
 }
 
 export default App;

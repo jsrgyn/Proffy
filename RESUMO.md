@@ -45,6 +45,8 @@ yarn start
 JSX - JavaScript + XML
 
 https://fonts.google.com/specimen/Poppins?sidebar.open=true&selection.family=Archivo:wght@400;700|Poppins&query=Popp
-Parei em 1.26min
+
+yarn add react-router-dom
+yarn add @types/react-router-dom -D
 
 ---
