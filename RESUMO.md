@@ -50,3 +50,44 @@ yarn add react-router-dom
 yarn add @types/react-router-dom -D
 
 ---
+
+Segundo dia (04-08-2020)
+
+---
+
+yarn init -y
+yarn add typescript -D
+yarn tsc --init ou npx tsc --init
+Alterar a configuração do tsconfig.json de "target": "es5", para "target": "es2017"
+yarn add ts-node-dev -D
+yarn add express
+yarn add @types/express -D
+
+Extensão para chrome: JSON Viewer
+https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=pt-BR
+
+Rotas e recursos
+
+# Funcionalidades
+
+## Conexões
+
+- Rota para listar o total de conexões realizadas
+- Rota para criar uma nova conexão
+
+## Aulas
+
+- Rota para criar uma aula;
+- Rota para listar aulas;
+  - Filtrar por matéria, dia da semana e horário;
+
+yarn add knex sqlite3
+
+http://knexjs.org/#Migrations-API
+
+yarn knex:migrate
+Extensão do VSC - SQLite
+https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite
+
+yarn add cors
+yarn add @types/cors -D
