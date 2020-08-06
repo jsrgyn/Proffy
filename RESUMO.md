@@ -32,6 +32,7 @@ https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 https://nextlevelweek.com/episodios/omnistack/1/edicao/2
 Diego Fernandes.
 
+03/08 Acelerando sua evolução
 Primeiro dia (03-08-2020)
 
 ---
@@ -51,6 +52,7 @@ yarn add @types/react-router-dom -D
 
 ---
 
+04/08 Olhando as oportunidades
 Segundo dia (04-08-2020)
 
 ---
@@ -94,8 +96,23 @@ yarn add @types/cors -D
 
 ---
 
+05/08 A escolha da stack
 Terçeiro dia (04-08-2020)
+Parei em 1h:25min
 
 ---
 
-Parei com 49:00 minuto.
+https://reactjs.org/ --> Declarative
+yarn add axios
+
+---
+
+06/08 Até 2 anos em 2 meses
+
+---
+
+---
+
+07/08 A milha extra
+
+---
