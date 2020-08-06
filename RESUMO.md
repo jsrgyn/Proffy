@@ -91,3 +91,11 @@ https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite
 
 yarn add cors
 yarn add @types/cors -D
+
+---
+
+Terçeiro dia (04-08-2020)
+
+---
+
+Parei com 49:00 minuto.

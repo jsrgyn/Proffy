@@ -8,6 +8,8 @@ import React from "react";
 
 import PageHeader from "../../components/PageHeader";
 import TeacherItem from "../../components/TeacherItem";
+import Input from "../../components/Input";
+import Select from "../../components/Select";
 
 import "./styles.css";
 
@@ -31,7 +33,7 @@ function TeacherList() {
       {/* <PageHeader /> */}
       <PageHeader title="Estes são os proffys disponíveis.">
         <form id="search-teachers">
-          <div className="input-block">
+          {/* <div className="input-block">
             <label htmlFor="subject">Matéria</label>
             <input type="text" id="subject" />
           </div>
@@ -44,7 +46,27 @@ function TeacherList() {
           <div className="input-block">
             <label htmlFor="time">Hora</label>
             <input type="text" id="time" />
-          </div>
+          </div> */}
+
+          {/* <Input name="subject" label="Matéria" /> */}
+          <Select
+            name="subject"
+            label="Matéria"
+            options={[
+              { value: "Artes", label: "Artes" },
+              { value: "Biologia", label: "Biologia" },
+              { value: "Ciências", label: "Ciências" },
+              { value: "Educação física", label: "Educação física" },
+              { value: "Geografia", label: "Geografia" },
+              { value: "História", label: "Históriates" },
+              { value: "Matemática", label: "Matemática" },
+              { value: "Português", label: "Portuguêses" },
+              { value: "Química", label: "Química" },
+            ]}
+          />
+
+          <Input name="week_day" label="Dia da semana" />
+          <Input type="time" name="time" label="Hora" />
         </form>
       </PageHeader>
 

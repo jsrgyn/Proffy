@@ -53,7 +53,7 @@
   color: var(--color-text-in-primary);
 }
 
-#search-teachers .input-block {
+/* #search-teachers .input-block {
   position: relative;
 }
 
@@ -86,7 +86,7 @@
   left: 1.6rem;
   right: 1.6rem;
   bottom: 0;
-}
+} */
 
 #page-teacher-list main {
   margin: 3.2rem auto;
