@@ -98,12 +98,14 @@ yarn add @types/cors -D
 
 05/08 A escolha da stack
 Terçeiro dia (04-08-2020)
-Parei em 1h:31min
+Parei em 1h:44min
 
 ---
 
 https://reactjs.org/ --> Declarative
 yarn add axios
+https://github.com/vinifraga
+https://github.com/tgmarinho
 
 ---
 

@@ -1,9 +1,12 @@
 import React, { useState, FormEvent } from "react";
 
+import { useHistory } from "react-router-dom";
+
 import PageHeader from "../../components/PageHeader";
 import Input from "../../components/Input";
 import Textarea from "../../components/Textarea";
 import Select from "../../components/Select";
+import api from "../../services/api";
 
 import warningIcon from "../../assets/images/icons/warning.svg";
 
@@ -11,6 +14,8 @@ import "./styles.css";
 
 function TeacherForm() {
   // return <h1>Teachers Form</h1>;
+
+  const history = useHistory();
 
   const [name, setName] = useState("");
   const [avatar, setAvatar] = useState("");
@@ -48,6 +53,26 @@ function TeacherForm() {
 
   function handleCreateClass(e: FormEvent) {
     e.preventDefault();
+
+    api
+      .post("/classes", {
+        name,
+        avatar,
+        whatsapp,
+        bio,
+        subject,
+        cost: Number(cost),
+        schedule: scheduleItems,
+      })
+      .then(() => {
+        alert("Cadastro realizado com sucesso!");
+
+        history.push("/");
+      })
+      .catch(() => {
+        alert("Erro no cadastro!");
+      });
+
     console.log({
       name,
       avatar,
