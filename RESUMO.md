@@ -98,7 +98,7 @@ yarn add @types/cors -D
 
 05/08 A escolha da stack
 Terçeiro dia (04-08-2020)
-Parei em 1h:25min
+Parei em 1h:31min
 
 ---
 
