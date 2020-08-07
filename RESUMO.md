@@ -107,6 +107,8 @@ yarn add axios
 https://github.com/vinifraga
 https://github.com/tgmarinho
 
+https://faq.whatsapp.com/general/chats/how-to-use-click-to-chat/
+
 ---
 
 06/08 Até 2 anos em 2 meses
