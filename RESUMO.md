@@ -29,8 +29,10 @@ https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 
 ---
 
+Next Level Week
 https://nextlevelweek.com/episodios/omnistack/1/edicao/2
 Diego Fernandes.
+CTO Rocketseat
 
 03/08 Acelerando sua evolução
 Primeiro dia (03-08-2020)
@@ -98,7 +100,6 @@ yarn add @types/cors -D
 
 05/08 A escolha da stack
 Terçeiro dia (04-08-2020)
-Parei em 1h:44min
 
 ---
 
@@ -112,8 +113,25 @@ https://faq.whatsapp.com/general/chats/how-to-use-click-to-chat/
 ---
 
 06/08 Até 2 anos em 2 meses
+Quarto dia (04-08-2020)
 
 ---
+
+Falta de foco; Falta de prática; Falta do grupo; Falta de paciência.
+Estruturando app mobile
+https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/Proffy-Mobile?node-id=0%3A1
+https://www.notion.so/Configurando-Ambiente-NLW-98a471ad3cb6448284b8ceed31c45767
+npx expo init mobile
+yarn start
+Emulador:
+https://www.google.com/search?q=emulador+react+native+rocketseat&oq=emulador+react+native+rocketseat&aqs=chrome..69i57j0.12694j0j7&sourceid=chrome&ie=UTF-8
+https://web.facebook.com/watch/?v=2988252154733623
+https://github.com/Rocketseat/expo-common-issues
+
+https://github.com/expo/google-fonts
+npx expo install expo-font @expo-google-fonts/archivo @expo-google-fonts/poppins
+
+Parei com 51M:18S
 
 ---
 
