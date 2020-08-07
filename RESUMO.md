@@ -131,7 +131,11 @@ https://github.com/Rocketseat/expo-common-issues
 https://github.com/expo/google-fonts
 npx expo install expo-font @expo-google-fonts/archivo @expo-google-fonts/poppins
 
-Parei com 51M:18S
+https://reactnavigation.org/docs/getting-started
+yarn add @react-navigation/native
+npx expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+yarn add @react-navigation/stack
+yarn add @react-navigation/bottom-tabs
 
 ---
 

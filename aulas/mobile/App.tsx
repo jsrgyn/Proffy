@@ -2,7 +2,9 @@ import { StatusBar } from "expo-status-bar";
 import React from "react";
 // import { StyleSheet, Text, View } from "react-native";
 
-import Landing from "./src/pages/Landing";
+// import Landing from "./src/pages/Landing";
+
+import AppStack from "./src/routes/AppStack";
 
 import { AppLoading } from "expo";
 
@@ -42,8 +44,11 @@ export default function App() {
   } else {
     return (
       <>
-        <Landing />
-        <StatusBar style="auto" />
+        {/* <Landing /> */}
+        {/* <StatusBar style="auto" /> */}
+
+        <AppStack />
+        <StatusBar style="light" />
       </>
     );
   }
