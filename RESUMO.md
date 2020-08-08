@@ -145,6 +145,8 @@ Quinto dia (07-08-2020)
 ---
 
 Finalizando app mobile
-Parei com 30m:51s
+https://docs.expo.io/versions/latest/sdk/picker/
+https://ionicons.com/
+https://feathericons.com/
 
 ---
