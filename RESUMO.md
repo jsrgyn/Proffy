@@ -149,4 +149,6 @@ https://docs.expo.io/versions/latest/sdk/picker/
 https://ionicons.com/
 https://feathericons.com/
 
+Parei 41:54s
+
 ---
