@@ -113,7 +113,7 @@ https://faq.whatsapp.com/general/chats/how-to-use-click-to-chat/
 ---
 
 06/08 Até 2 anos em 2 meses
-Quarto dia (04-08-2020)
+Quarto dia (06-08-2020)
 
 ---
 
@@ -140,5 +140,11 @@ yarn add @react-navigation/bottom-tabs
 ---
 
 07/08 A milha extra
+Quinto dia (07-08-2020)
+
+---
+
+Finalizando app mobile
+Parei com 30m:51s
 
 ---
