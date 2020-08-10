@@ -113,7 +113,7 @@ https://faq.whatsapp.com/general/chats/how-to-use-click-to-chat/
 ---
 
 06/08 Até 2 anos em 2 meses
-Quarto dia (04-08-2020)
+Quarto dia (06-08-2020)
 
 ---
 
@@ -140,5 +140,26 @@ yarn add @react-navigation/bottom-tabs
 ---
 
 07/08 A milha extra
+Quinto dia (07-08-2020)
+
+---
+
+Finalizando app mobile
+https://docs.expo.io/versions/latest/sdk/picker/
+https://ionicons.com/
+https://feathericons.com/
+
+yarn add axios
+
+https://stackoverflow.com/questions/35995775/whatsapp-deep-link-to-a-specific-mobile-number
+https://docs.expo.io/versions/latest/sdk/async-storage/
+npx expo install @react-native-community/async-storage
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/splice
+
+https://www.notion.so/Vers-o-2-0-Proffy-eefca1b981694cd0a895613bc6235970
+https://www.notion.so/Deploy-NLW-56f2a980c20e41d6b1dd22a4d1348e6e
+
+FIM.
 
 ---
