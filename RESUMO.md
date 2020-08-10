@@ -1,3 +1,5 @@
+https://nextlevelweek.com/episodios/discovery/1/edicao/2
+
 - Primeiro dia (2020-08-03);
   Os pilares
   1 - Foco
