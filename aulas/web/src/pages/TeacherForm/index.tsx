@@ -149,6 +149,10 @@ function TeacherForm() {
             <Select
               name="subject"
               label="Matéria"
+              value={subject}
+              onChange={(e) => {
+                setSubject(e.target.value);
+              }}
               options={[
                 { value: "Artes", label: "Artes" },
                 { value: "Biologia", label: "Biologia" },
